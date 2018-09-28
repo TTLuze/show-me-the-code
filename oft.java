@@ -1,4 +1,4 @@
 import *
 
 public class
-return
+return 1
